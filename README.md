@@ -39,7 +39,7 @@ El sistema es una aplicación web sencilla accesible desde computadoras o dispos
 | PV-01 | Validaciones | RF03 -Edición y cancelación de pedidos | Pedido ID #022 Acción: Cambiar cantidad de 1 a 3 unidades y luego cancelar el pedido | El sistema actualiza el pedido correctamente, muestra el mensaje "Pedido actualizado exitosamente" y permite cancelarlo sin errores | Pedido editado y cancelado correctamente. Mensajes mostrados según lo esperado. |
 | PV-02 | Validaciones | RF05 - Historial de pedidos | Acción: Consultar historial de pedidos del cliente "Ana Torres" | El sistema muestra el historial con pedidos anteriores, incluyendo fecha, productos y cantidad total, sin errores. | Historial visualizado correctamente. Datos completos y ordenados cronológicamente. |
 
-## 5. Tipos de mantenimiento propuestos
+## 5. Tipos de mantenimientos propuestos
 
 El sistema presentó dos situaciones problemáticas principales, y para cada una se aplicaron tres tipos de mantenimiento: correctivo, preventivo y perfectivo.
 
